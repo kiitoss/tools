@@ -2,6 +2,6 @@
 
 What tools are available?
 
-- [hash-generator](hash-generator/) _(generates the main hashes of a password)_
+- [hash-generator](hash-generator/) : generates the main hashes of a password
 
-- [lf-remover](hash-generator/) _(deletes line breaks from a document or from the clipboard)_
+- [lf-remover](lf-remover/) : deletes line breaks from a document or from the clipboard
