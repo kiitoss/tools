@@ -6,9 +6,9 @@ Deletes line breaks from a document or from the clipboard.
 
 ```bash
 # clone the repository
-git clone git@github.com:kiitoss/lf-remover.git
+git clone git@github.com:kiitoss/tools.git
 # move to the folder
-cd ./lf-remover
+cd ./tools/lf-remover
 # run the program
 python3 lf-remover.py --help
 ```

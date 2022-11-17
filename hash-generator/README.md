@@ -14,9 +14,9 @@ Displays the results obtained with the following hashes:
 
 ```bash
 # clone the repository
-git clone git@github.com:kiitoss/hash-generator.git
+git clone git@github.com:kiitoss/tools.git
 # move to the folder
-cd ./hash-generator
+cd ./tools/hash-generator
 # run the program
 python3 hash-generator.py
 ```
